@@ -21,18 +21,22 @@ This repository contains all open code of our published papers.
 
     **Code**: [TDOA-Localization-without-the-Knowledge-of-Signal-Propagation-Speed](https://github.com/Mrneet/TDOA-Localization-without-the-Knowledge-of-Signal-Propagation-Speed)
 
-6. S. Zhang, Y. Xu, B. Tang, Y. Yang, and Y. Sun, "[Efficient Solution Resilient to Noise and Anchor Position Error for Joint Localization and Synchronization Using One-Way Sequential TOAs](https://www.mdpi.com/2076-3417/14/14/6069)," *Applied Sciences*, vol. 14, no. 14, p. 6069, 2024.
+6. C. Si, R. Fan, Y. Yang and Y. Sun, “[Improved TOA Localization Using Modified Polar Representation](https://ieeexplore.ieee.org/document/10601691),” *IEEE Commun. Lett.*, vol. 28, no. 9, pp. 2051-2055, Sep. 2024.
+
+    **Code**: [Improved-TOA-Localization-Using-MPR](https://github.com/Mrneet/Improved-TOA-Localization-Using-MPR)
+   
+7. S. Zhang, Y. Xu, B. Tang, Y. Yang, and Y. Sun, "[Efficient Solution Resilient to Noise and Anchor Position Error for Joint Localization and Synchronization Using One-Way Sequential TOAs](https://www.mdpi.com/2076-3417/14/14/6069)," *Applied Sciences*, vol. 14, no. 14, p. 6069, 2024.
 
     **Code**: [JLAS_Resilient_to_Noise_Using_One_Way_TOAs](https://github.com/Mrneet/JLAS_Resilient_to_Noise_Using_One_Way_TOAs)
    
-7. B. Tang, Y. Zou, Y. Yang, X. Yang, X. Cong, and Y. Sun, "[Asymptotically Efficient Solutions for TOA-FOA Localization With Clock Bias and Drift](https://ieeexplore.ieee.org/document/10755018/)," IEEE Sensors Journal, vol. 25, no. 1, pp. 1121-1132, 2025.
+8. B. Tang, Y. Zou, Y. Yang, X. Yang, X. Cong, and Y. Sun, "[Asymptotically Efficient Solutions for TOA-FOA Localization With Clock Bias and Drift](https://ieeexplore.ieee.org/document/10755018/)," IEEE Sensors Journal, vol. 25, no. 1, pp. 1121-1132, 2025.
 
    **Code**: [TOAFOA_Loc_Imperfect_Clock_Sync](https://github.com/Mrneet/TOAFOA_Loc_Imperfect_Clock_Sync)
 
-8. Y. Sun and Q. Wan, "[Position Determination for Moving Transmitter Using Single Station](https://ieeexplore.ieee.org/document/8496761)," IEEE Access, vol. 6, no. 1, pp. 61103-61116, Oct. 2018.
+9. Y. Sun and Q. Wan, "[Position Determination for Moving Transmitter Using Single Station](https://ieeexplore.ieee.org/document/8496761)," IEEE Access, vol. 6, no. 1, pp. 61103-61116, Oct. 2018.
 
    **Code**: [AOA-Doppler-Moving-Transmitter-Localization-Using-Single-Station](https://github.com/Mrneet/AOA-Doppler-Moving-Transmitter-Localization-Using-Single-Station)
 
-9. C. Li, B. Tang, Y. Yang, L. Chen and Y. Sun, "[Algebraic Solution for Linear Array-Based 3D Localization Without Deployment Limitations](https://ieeexplore.ieee.org/document/10925888)," IEEE Signal Processing Letters, vol. 32, pp. 1326-1330, 2025.
+10. C. Li, B. Tang, Y. Yang, L. Chen and Y. Sun, "[Algebraic Solution for Linear Array-Based 3D Localization Without Deployment Limitations](https://ieeexplore.ieee.org/document/10925888)," IEEE Signal Processing Letters, vol. 32, pp. 1326-1330, 2025.
 
    **Code**: [Algebraic_Solution_for_LA-Based_3D_Localization](https://github.com/Mrneet/Algebraic_Solution_for_LA-Based_3D_Localization)
